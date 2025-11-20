@@ -1,1 +1,3 @@
 Versión 1 - texto inicial
+Versión 2 - agrego información
+Versión 3 - texto final de práctica
